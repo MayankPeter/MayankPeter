@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayankPeter
 - 👀 I’m interested in Embedded System Design
-- 🌱 I’m currently learning device drivers.
+- 🌱 I’m currently learning device drivers(Baremetal and Linux).
 - 💞️ I’m looking to collaborate on Linux Kernel Development Projects
 
 <!---
